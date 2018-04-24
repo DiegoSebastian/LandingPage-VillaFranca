@@ -73,8 +73,8 @@
                 
                 Muchas gracias por tu interés.</p> <br>
 
-                <h2>Folleto: <a href='https://raw.githubusercontent.com/DiegoSebastian/LandingPage-Bilbao/master/Folleto-Gaztelondo-Berria-con-fotos-piloto_WEB.pdf'> Descargar </a></h2>
-                <a href='https://raw.githubusercontent.com/DiegoSebastian/LandingPage-Bilbao/master/Folleto-Gaztelondo-Berria-con-fotos-piloto_WEB.pdf'><img src='https://github.com/DiegoSebastian/LandingPage-Bilbao/blob/master/images/preview-folleto.jpg?raw=true' /></a>      ";
+                <h2>Folleto: <a href='https://github.com/DiegoSebastian/LandingPage-VillaFranca/raw/master/follleto_villafranca.pdf'> Descargar </a></h2>
+                <a href='https://github.com/DiegoSebastian/LandingPage-VillaFranca/raw/master/follleto_villafranca.pdf'><img src='https://github.com/DiegoSebastian/LandingPage-Bilbao/blob/master/images/preview-folleto.jpg?raw=true' /></a>      ";
     $mensajeCliente = "Datos del cliente: <br> 
                         Nombre: $nombre_destinatario <br> 
                         Email: $correo_destinatario <br> 
